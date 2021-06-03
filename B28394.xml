@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings at the Kings Bench Bar at Westminster, on the twenty eighth past. Giving an account of the bailing the Right Honourable Anthony Earl of Shaftsbury, William Lord Howard Baron of Escreik, Edward Whittakar, John Willmore and Samuel Wilson: with the names of such persons of honour, and others, as became sureties. Together with many other remarkable passages.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28394</idno><idno type="EEBO-CITATION">99888842</idno>
+  <idno type="VID">196307</idno>
+  <idno type="EEBO-PROQUEST">2240899715</idno>
+  
+            <idno type="STC">Wing P3560</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.3*.[46]</idno>
+            <idno type="STC">ESTC R232247</idno>
+            <idno type="PROQUEST">ocm99888842</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888842e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196307)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:2[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings at the Kings Bench Bar at Westminster, on the twenty eighth past. Giving an account of the bailing the Right Honourable Anthony Earl of Shaftsbury, William Lord Howard Baron of Escreik, Edward Whittakar, John Willmore and Samuel Wilson: with the names of such persons of honour, and others, as became sureties. Together with many other remarkable passages.</title>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roger Evans.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Early works to 1800.</term>
+               <term type="personal_name">Howard of Escrick, William Howard, --  Baron, 1626?-1694 --  Early works to 1800.</term>
+               <term type="personal_name">Whittakar, Edward --  Early works to 1800.</term>
+               <term type="personal_name">Willmore, --  Mr. --  Early works to 1800.</term>
+               <term type="personal_name">Wilson, Samuel, fl. 1681 --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Treason) --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="record_of_proceeding">
+            <pb n="1" facs="tcp:196307:1"/>
+            <head>THE PROCEEDINGS AT THE KINGS BENCH BAR AT WESTMINSTER, On the Twenty Eighth past.</head>
+            <head type="sub">Giving an Account of the Bailing the Right Honourable <hi>Anthony</hi> Earl of <hi>Shaftsbury, William</hi> Lord <hi>Howard</hi> Baron of <hi>Escreik, Edward Whittakar, John Will<g ref="char:EOLhyphen"/>more</hi> and <hi>Samuel Wilson:</hi> With the Names of such Persons of Honour, and others, as became Sureties. Together with many other Remarkable Passages.</head>
+            <p>
+               <hi>NOvember</hi> the Twenty Eighth. This being the last day of the Term, the Right Honourable <hi>Anthony</hi> Earl of <hi>Shaftsbury, William</hi> Lord <hi>Howard</hi> Baron of <hi>Escreik,</hi> Mr. <hi>John Willmore</hi> and Mr. <hi>Edward Whittakar</hi> were brought from the Tower of <hi>London</hi> by the Lieutenant and a Guard of Halberts, in order to their being Bailed, according to the Act of the Thirteenth of His present Majesty. Whereupon, Mr. <hi>Williams</hi> moved the Court in the behalf of the Earl: and satis<g ref="char:EOLhyphen"/>fied them, that Mr. <hi>Attorney General</hi> had been waited upon on that occasion: when as the Warrant of his Commitment for High Trea<g ref="char:EOLhyphen"/>son, dated the Second of <hi>July,</hi> was Read, and Ordered to be Filed. After which, his Lordship insisted upon being set at Liberty, without giving in Bail; saying, that he had had hard Measure, and had been falsly Scandaled, by having such things layed to his Charge as he was altogether Ignorant of. But the Court declaring that they could not set him at Liberty without Giving Bail, his Lordship nomina<g ref="char:EOLhyphen"/>ted His Grace the Duke of <hi>Monmouth,</hi> Sir <hi>William Cooper,</hi> Sir <hi>John
+<pb n="2" facs="tcp:196307:2"/>Sidnum</hi> and <hi>Francis Charlton</hi> Esquire; who were Bound severally in the penalty of Fifteen Hundred Pounds a peice, and his Lordship in the Sum of Three Thousand Pounds, to appear the First Day of the next Term, and not to depart without leave of the Court.</p>
+            <p>Next the Lord <hi>Howard</hi>'s Warrant of Commitment for High Trea<g ref="char:EOLhyphen"/>son was read, being Dated the Fourteenth of <hi>June,</hi> and Ordered to be Filed. His Lordship alledged, that he ought to have had the Be<g ref="char:EOLhyphen"/>nefit of the last Term, there being a Bill Preferred against him. But the Court told him, they could take no notice of that, by reason it was withdrawn. Then His Lordship named his Bail; which were, the Right Honourable the Earl of <hi>Kent,</hi> the Lord <hi>Clare,</hi> the Lord <hi>Gray</hi> and the Lord <hi>Herbert:</hi> the Penal Sum being exactly as the for<g ref="char:EOLhyphen"/>mer.</p>
+            <p>Then Mr. <hi>John Willmore</hi>'s Warrant of Commitment being Read, and Ordered to be Filed, Mr. Attorney Declaring he had nothing against him, his Bail were called into Court; whose Names are as follow: <hi>James Rawlins, William Jacob, Nicholas Grigson</hi> and <hi>Alexan<g ref="char:EOLhyphen"/>der Probe;</hi> who were bound in Fifteen Hundred Pound a peice, and himself in Three Thousand Pound.</p>
+            <p>Then <hi>Edward Whittakar</hi> (whose Warrant of Commitment being Read and Filed as the former) produced his Bail; <hi>viz, John Jen<g ref="char:EOLhyphen"/>kins, Zacharia Bourn, Samuel Smith</hi> and <hi>Thomas Wicks;</hi> being all Bound in the aforesaid Penalty for him to appear the First Day of the next Term; and so, <hi>Die in Diem,</hi> till the said Bail should be dis<g ref="char:EOLhyphen"/>charged.</p>
+            <p>Upon my Lord <hi>Howard</hi>'s, Mr. <hi>Willmore</hi>'s and Mr. <hi>Whittakar</hi>'s re-refusing to pay such Fees as the Lieutenant demanded, he complained to the Court. But they told him, he must take his Course at Law; they could not oblige them to pay it, unless they were willing. Up<g ref="char:EOLhyphen"/>on which, My Lord <hi>Howard</hi> said, that he knew no such Fees due as was demanded; nor would he pay them, unless they appeared due upon Tryal; and offered to give an Appearance: which being ac<g ref="char:EOLhyphen"/>cepted, he nominated Mr. <hi>Governough</hi> his Attorney. The like did Mr. <hi>Willmore.</hi> But Mr. <hi>Whittakar</hi> being an Attorney of the <hi>Common. Pleas,</hi> the Proceedings against him were referred to that Court.</p>
+            <p>After this, <hi>Samuel Wilson</hi> was brought from the <hi>Gate-house,</hi> and Bailed accordingly.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Roger Evans.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
